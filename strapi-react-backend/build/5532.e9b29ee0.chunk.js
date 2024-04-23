@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkninja_reviews_backend=self.webpackChunkninja_reviews_backend||[]).push([[5532],{75532:(a,e,n)=>{n.r(e),n.d(e,{default:()=>d});const d={"plugin.description.long":"Tilf\xF8jer GraphQL endpoint med standard API metoder.","plugin.description.short":"Tilf\xF8jer GraphQL endpoint med standard API metoder.","plugin.name":"GraphQL"}}}]);
